@@ -8,7 +8,7 @@ I started this challenge to improve my problem-solving skills, strengthen my DSA
 
 ## Challenge Details
 
-* Start Date: 1 June
+* Start Date: 1 June 2026
 * Duration: 45 Days
 * Problems Per Day: 3
 * Language: Python
