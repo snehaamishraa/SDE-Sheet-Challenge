@@ -1,4 +1,5 @@
-# LeetCode 118 - Set Matrix Zeroes
+# LeetCode 118 - Pascal's Triangle
+
 class Solution:
     def generate(self, numRows):
 
